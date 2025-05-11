@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shayan Mustafa</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web Fronten Developer</h3>
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="loading">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan197&label=Profile%20views&color=0e75b6&style=flat" alt="shayan197" /> </p>
 
