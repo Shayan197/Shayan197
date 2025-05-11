@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shayan197](https://github.com/Shayan197)
 
-- 💬 Ask me about **Css ,HTML and javaScript**
+- 💬 Ask me about **React and Next Web Applications**
 
 - 📫 How to reach me **shayanbukhari12345@gmail.com**
 
-- ⚡ Fun fact **Always be haPpy🤗**
+- ⚡ Fun fact **The clock forgets to tick when the heart leads the task🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
